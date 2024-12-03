@@ -1,3 +1,4 @@
+
  *{
     margin: 0px;
     padding: 0px;
@@ -123,9 +124,6 @@ p{
     
 }
 
-
-
-
 .red{
     height: 100px;
 
@@ -147,17 +145,6 @@ p{
     border-radius: 43px;
     border: 2px solid rgb(0, 0, 0);
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -220,6 +207,9 @@ p{
     background-size: cover;
     background-image: url("Kalki-2898-AD-2-306x393.jpg");
   }
+  
+  
+  
   
   
   
