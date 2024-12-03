@@ -126,6 +126,31 @@ p{
 
 
 
+.red{
+    height: 100px;
+
+    display: flex;
+    justify-content: center
+    ;
+}
+
+
+#nxt{
+    font-size: 35px;
+}
+#huhu{
+    font-size: 45px;
+    padding-left:22px ;
+    padding-right: 22px;
+    background-color: red;
+    color: beige;
+    border-radius: 43px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+
+
+
 
 
 
