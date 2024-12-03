@@ -123,3 +123,79 @@ p{
     
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.one1{
+    height: 3024px;
+    width: 100%;
+    background-color: black;
+    
+  }
+  
+  #one2{
+    color: beige;
+    font-size: 60px;
+    padding-top: 20px;
+    margin-left: 40px;
+    text-decoration: underline red;
+  }
+  #one3{
+    height: 400px;
+    width: 400px;
+    background-color: azure;
+    margin-top: 70px;
+    margin-left: 50px;
+    border-radius: 25px;
+    background-image: url("MV5BZDg0NGU2ZjgtM2M0YS00NWM2LTkwNjAtYWY5YTY0N2IzYWUwXkEyXkFqcGc@._V1_.jpg");
+    background-size: contain;
+    position: absolute;
+    
+  }
+  #one33{
+    margin-top: 700px;
+    margin-left: 700px;
+    display: flex;
+    position: absolute;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+    color: beige;
+  }
+  #one11{
+    margin-top: 200px;
+    margin-left: 700px;
+    display: flex;
+    position: absolute;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+    color: beige;
+    
+  }
+  #one4{
+    height: 400px;
+    width: 400px;
+    background-color: #ffabcf;
+    margin-top: 600px;
+    margin-left: 40px;
+    border-radius: 25px;
+    background-size: cover;
+    background-image: url("Kalki-2898-AD-2-306x393.jpg");
+  }
+  
+  
+  
+
